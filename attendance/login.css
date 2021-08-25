@@ -1,0 +1,23 @@
+h1 {
+    font-family: "Trebuchet MS", sans-serif;
+    font-size: 50px;
+    letter-spacing: -2px;
+    border-bottom: 2px solid brown;
+    text-transform: uppercase;
+    background-color: brown;
+  }
+ 
+   div {
+
+    background-image: url('bg.png');
+  
+    background-repeat: no-repeat;
+  
+      background-attachment: fixed;
+  
+      background-size: 30% 30%;
+  
+    color: rgb(21, 0, 78);
+  
+    }
+    
